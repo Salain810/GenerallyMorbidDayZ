@@ -1,0 +1,149 @@
+{
+  "m_Version": 12,
+  "DisplayName": "MuchStuffPack Clothing and Backpacks",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "msp_baseballcap_beige",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "msp_baseballcap_black",
+        "msp_baseballcap_blue",
+        "msp_baseballcap_camo",
+        "msp_baseballcap_olive",
+        "msp_baseballcap_pink",
+        "msp_baseballcap_red",
+        "msp_baseballcap_cmmg_pink",
+        "msp_baseballcap_cmmg_black"
+      ]
+    },
+    {
+      "ClassName": "msp_boxinggloves_black",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "msp_boxinggloves_red",
+        "msp_boxinggloves_blue",
+        "msp_boxinggloves_gold"
+      ]
+    },
+    {
+      "ClassName": "msp_boxinghelmet_red",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "msp_boxinghelmet_blue"
+      ]
+    },
+    {
+      "ClassName": "msp_boxingshorts_red",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "msp_boxingshorts_blue"
+      ]
+    },
+    {
+      "ClassName": "msp_dufflebag_green",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "msp_dufflebag_black",
+        "msp_dufflebag_blue",
+        "msp_dufflebag_red"
+      ]
+    },
+    {
+      "ClassName": "msp_m_boxinggloves_black",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "msp_m_boxinggloves_blue",
+        "msp_m_boxinggloves_red",
+        "msp_m_boxinggloves_gold"
+      ]
+    },
+    {
+      "ClassName": "msp_medicbag",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "msp_medicbag_red",
+        "msp_medicbag_green",
+        "msp_medicbag_blue",
+        "msp_medicbag_black"
+      ]
+    },
+    {
+      "ClassName": "msp_slouchie_beige",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "msp_slouchie_black",
+        "msp_slouchie_blue",
+        "msp_slouchie_red"
+      ]
+    },
+    {
+      "ClassName": "msp_waistpack_tan",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "msp_waistpack_black",
+        "msp_waistpack_green",
+        "msp_waistpack_brown",
+        "msp_waistpack_urbanflektarn",
+        "msp_waistpack_blue"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "m_Version": 4,
+  "ServerMarkerOnDropLocation": 1,
+  "Server3DMarkerOnDropLocation": 1,
+  "ShowAirdropTypeOnMarker": 1,
+  "HideCargoWhileParachuteIsDeployed": 1,
+  "HeightIsRelativeToGroundLevel": 1,
+  "Height": 450,
+  "FollowTerrainFraction": 0.5,
+  "Speed": 35,
+  "Radius": 1,
+  "InfectedSpawnRadius": 50,
+  "InfectedSpawnInterval": 250,
+  "ItemCount": 50,
+  "Containers": []
+}

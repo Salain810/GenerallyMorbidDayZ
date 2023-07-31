@@ -1,0 +1,14 @@
+{
+  "m_Version": 4,
+  "EnablePlayerTags": 0,
+  "PlayerTagViewRange": 0,
+  "PlayerTagsIcon": null,
+  "PlayerTagsColor": 0,
+  "PlayerNameColor": 0,
+  "OnlyInSafeZones": 1,
+  "OnlyInTerritories": 0,
+  "ShowPlayerItemInHands": 0,
+  "ShowNPCTags": 0,
+  "ShowPlayerFaction": 0,
+  "UseRarityColorForItemInHands": 0
+}

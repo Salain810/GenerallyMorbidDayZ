@@ -1,0 +1,29 @@
+{
+  "m_Version": 11,
+  "DisplayName": "BLACKMARKET",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 0,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "SNAFU_MAGS",
+    "CANNABISPLUS",
+    "SNAFU_EXTRAS",
+    "SNAFU_SUPPRESSORS",
+    "SNAFU_SCOPES",
+    "SNAFU_GRIPS",
+    "SNAFU_STOCKS",
+    "SNAFU_HANDGUARDS",
+    "SNAFU_BIPODS"
+  ],
+  "Items": {
+    "cigarettepack_chernamorka": 1,
+    "cigarettepack_merkur": 1,
+    "cigarettepack_partyzanka": 1,
+    "cp_rollingpapers": 1
+  }
+}

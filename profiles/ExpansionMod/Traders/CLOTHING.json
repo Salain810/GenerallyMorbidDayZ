@@ -1,0 +1,24 @@
+{
+  "m_Version": 11,
+  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 0,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Backpack",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "BLOUSES_AND_SUITS",
+    "COATS_AND_JACKETS",
+    "SHIRTS_AND_TSHIRTS",
+    "SKIRTS_AND_DRESSES",
+    "PANTS_AND_SHORTS",
+    "BOOTS_AND_SHOES",
+    "MVS_CLOTHING",
+    "MSP_CLOTHES",
+    "WINDSTRIDE"
+  ],
+  "Items": {}
+}

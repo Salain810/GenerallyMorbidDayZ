@@ -1,0 +1,39 @@
+{
+  "m_Version": 11,
+  "DisplayName": "BANDITTRADER",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 0,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "SNAFU_WEAPONS",
+    "SNAFU_MAGS",
+    "OPTICS:3",
+    "BAYONETS:3",
+    "BUTTSTOCKS:3",
+    "MUZZLES:3",
+    "AMMO",
+    "AMMO_BOXES",
+    "SNAFU_AMMO",
+    "SNAFU_EXTRAS:3",
+    "SNAFU_SUPPRESSORS:3",
+    "SNAFU_SCOPES:3",
+    "HANDGUARDS:3",
+    "MAGAZINES",
+    "SNAFU_GRIPS:3",
+    "SNAFU_STOCKS:3",
+    "SNAFU_HANDGUARDS:3",
+    "SNAFU_BIPODS:3"
+  ],
+  "Items": {
+    "battery9v": 3,
+    "mag_ak74_30rnd": 3,
+    "mag_expansion_vityaz_30rnd": 3,
+    "mag_saiga_8rnd": 3,
+    "mag_vss_10rnd": 3
+  }
+}
