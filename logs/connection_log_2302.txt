@@ -935,3 +935,65 @@
 [2023-08-01 10:25:47] [Logged On, 4, 3] [A:1:2070190105:23960] LogOff()
 [2023-08-01 10:25:47] [Logging Off, 4, 3] [A:1:2070190105:23960] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
 [2023-08-01 10:25:47] [Logging Off, 0, 3] [A:1:2070190105:23960] Log session ended
+
+
+[2023-08-01 10:26:19] Log session started
+[2023-08-01 10:26:19] [Logged Off, 0, 0] [A:1:0:0] CCMInterface::SetSteamID( [A:1:0:0] )
+[2023-08-01 10:26:19] Log session started
+[2023-08-01 10:26:19] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2023-08-01 10:26:19] Log session started
+[2023-08-01 10:26:19] [Logged Off, 4, 0] [A:1:0:0] LogOn() called; not connected yet, scheduling connection. Schedule init returned 22
+[2023-08-01 10:26:19] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2023-08-01 10:26:19] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2023-08-01 10:26:19] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2023-08-01 10:26:19] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-08-01 10:26:19] GetCMListForConnect -- got 11 Netfilter CMs and 69 WebSocket CMs
+[2023-08-01 10:26:19] GetCMListForConnect -- DC 'ord1' count: 21
+[2023-08-01 10:26:19] GetCMListForConnect -- DC 'iad1' count: 22
+[2023-08-01 10:26:19] GetCMListForConnect -- DC 'sea1' count: 20
+[2023-08-01 10:26:19] GetCMListForConnect -- DC 'dfw1' count: 17
+[2023-08-01 10:26:19] [Connecting, 4, 0] [A:1:0:0] CM Directory list says 86% of connections should be websockets, we rolled 95 - using UDP as default.
+[2023-08-01 10:26:19] [Connecting, 4, 2] [A:1:0:0] Connect() starting connection (eNetQOSLevelMedium, 162.254.193.74:27018, UDP)
+[2023-08-01 10:26:20] [Connecting, 4, 2] [A:1:0:0] ConnectionCompleted() (162.254.192.87:27017, UDP) local address (0.0.0.0:8766)
+[2023-08-01 10:26:20] [Connecting, 4, 2] [A:1:0:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-08-01 10:26:20] [Connected, 4, 2] [A:1:0:0] Logging on [A:1:0:0]
+[2023-08-01 10:26:20] [Logging On, 4, 2] [A:1:0:0] RecvMsgClientLogOnResponse() : [A:1:2072308761:23960] 'OK'
+[2023-08-01 10:32:05] [Logged On, 4, 2] [A:1:2072308761:23960] LogOff()
+[2023-08-01 10:32:05] [Logging Off, 4, 2] [A:1:2072308761:23960] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2023-08-01 10:32:05] [Logging Off, 0, 2] [A:1:2072308761:23960] Log session ended
+
+
+[2023-08-01 10:32:40] Log session started
+[2023-08-01 10:32:40] [Logged Off, 0, 0] [A:1:0:0] CCMInterface::SetSteamID( [A:1:0:0] )
+[2023-08-01 10:32:40] Log session started
+[2023-08-01 10:32:40] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2023-08-01 10:32:40] Log session started
+[2023-08-01 10:32:40] [Logged Off, 4, 0] [A:1:0:0] LogOn() called; not connected yet, scheduling connection. Schedule init returned 22
+[2023-08-01 10:32:40] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2023-08-01 10:32:40] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2023-08-01 10:32:40] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2023-08-01 10:32:40] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2023-08-01 10:32:40] GetCMListForConnect -- got 8 Netfilter CMs and 72 WebSocket CMs
+[2023-08-01 10:32:40] GetCMListForConnect -- DC 'ord1' count: 20
+[2023-08-01 10:32:40] GetCMListForConnect -- DC 'iad1' count: 22
+[2023-08-01 10:32:40] GetCMListForConnect -- DC 'sea1' count: 20
+[2023-08-01 10:32:40] GetCMListForConnect -- DC 'dfw1' count: 18
+[2023-08-01 10:32:40] [Connecting, 4, 0] [A:1:0:0] CM Directory list says 90% of connections should be websockets, we rolled 52 - using WebSockets as default.
+[2023-08-01 10:32:40] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-ord1.steamserver.net:443) starting...
+[2023-08-01 10:32:40] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-ord1.steamserver.net:27030) starting...
+[2023-08-01 10:32:40] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-ord1.steamserver.net:27036) starting...
+[2023-08-01 10:32:40] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-iad1.steamserver.net:27024) starting...
+[2023-08-01 10:32:40] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-ord1.steamserver.net:27030) results: 54.7074ms + load 27.0000
+[2023-08-01 10:32:40] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-sea1.steamserver.net:27020) starting...
+[2023-08-01 10:32:40] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-ord1.steamserver.net:443) results: 58.8577ms + load 49.0000
+[2023-08-01 10:32:40] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-sea1.steamserver.net:27025) starting...
+[2023-08-01 10:32:40] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-ord1.steamserver.net:27036) results: 50.8541ms + load 28.0000
+[2023-08-01 10:32:40] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() stopping early for good host (ext2-ord1.steamserver.net:27036)
+[2023-08-01 10:32:40] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-iad1.steamserver.net:27024) results: 46.3096ms + load 26.0000
+[2023-08-01 10:32:41] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext2-sea1.steamserver.net:27025) results: 120.7176ms + load 12.0000
+[2023-08-01 10:32:41] [Connecting, 4, 0] [A:1:0:0] PingWebSocketCM() (ext1-sea1.steamserver.net:27020) results: 116.7563ms + load 17.0000
+[2023-08-01 10:32:41] [Connecting, 4, 3] [A:1:0:0] Connect() starting connection (eNetQOSLevelMedium, ext1-iad1.steamserver.net:27024, WebSocket)
+[2023-08-01 10:32:41] [Connecting, 4, 3] [A:1:0:0] ConnectionCompleted() (162.254.192.74:27024, WebSocket) local address (192.168.2.76:50799)
+[2023-08-01 10:32:41] [Connecting, 4, 3] [A:1:0:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2023-08-01 10:32:41] [Connected, 4, 3] [A:1:0:0] Logging on [A:1:0:0]
+[2023-08-01 10:32:41] [Logging On, 4, 3] [A:1:0:0] RecvMsgClientLogOnResponse() : [A:1:2212719641:23960] 'OK'
