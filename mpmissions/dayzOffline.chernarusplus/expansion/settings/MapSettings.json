@@ -93,16 +93,46 @@
             "m_Persist": 1
         },
         {
-            "m_UID": "ServerMarker_Trader_Green_Montain",
+            "m_UID": "ServerMarker_Trader_Green_Mountain",
             "m_Visibility": 6,
             "m_Is3D": 1,
-            "m_Text": "Trader - Green Montain",
+            "m_Text": "Trader - Green Mountain",
             "m_IconName": "Trader",
             "m_Color": -13710223,
             "m_Position": [
                 3698.0,
                 405.0,
                 5988.0
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "ServerMarker_Trader_BlackMarket",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Trader - Black Market",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                8144.0,
+                478.0,
+                9115.0
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "ServerMarker_Trader_Bandit",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Trader - Bandit",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                2077.0,
+                247.0,
+                12204.0
             ],
             "m_Locked": 0,
             "m_Persist": 1
