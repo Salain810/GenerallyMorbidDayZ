@@ -48,40 +48,37 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="expansion_events.xml" type="events" />
 	</ce>
 	<ce folder="CustomTypes/MassManyItems">
-		<file name="types.xml" type="types" />
-	</ce>
-	<ce folder="CustomTypes/CarCover">
-		<file name="types.xml" type="types" />
+		<file name="MassManyItems.xml" type="types" />
 	</ce>
 	<ce folder="CustomTypes/MuchStuffPack">
-		<file name="types.xml" type="types" />
+		<file name="MuchStuffPack.xml" type="types" />
 	</ce>
 	<ce folder="CustomTypes/BaseBuildingPlus">
-		<file name="types.xml" type="types" />
+		<file name="BaseBuildingPlus.xml" type="types" />
 	</ce>
 	<ce folder="CustomTypes/BBPItemPack">
-		<file name="types.xml" type="types" />
+		<file name="BBPItemPack.xml" type="types" />
 	</ce>
 	<ce folder="CustomTypes/WindstridesClothingPack">
-		<file name="types.xml" type="types" />
+		<file name="WindstridesClothingPack.xml" type="types" />
 	</ce>
 	<ce folder="CustomTypes/SNAFU">
-		<file name="types.xml" type="types" />
+		<file name="SNAFU.xml" type="types" />
 	</ce>
 	<ce folder="CustomTypes/Towing">
-		<file name="types.xml" type="types" />
+		<file name="Towing.xml" type="types" />
 	</ce>
 	<ce folder="CustomTypes/CannabisPlus">
-		<file name="types.xml" type="types" />
+		<file name="CannabisPlus.xml" type="types" />
 	</ce>
 	<ce folder="CustomTypes/MunghardsItemPack">
-		<file name="types.xml" type="types" />
+		<file name="MunghardsItemPack.xml" type="types" />
 	</ce>
 		<ce folder="CustomTypes/vg7_corvette">
 		<file name="vg7_corvette.xml" type="types" />
 	</ce>
-		<ce folder="CustomTypes/MRAP_4x4">
-		<file name="MRAP_4x4.xml" type="types" />
+		<ce folder="CustomTypes/ArmoredVehiclePack">
+		<file name="ArmoredVehiclePack.xml" type="types" />
 	</ce>
 	<!-- ....To here -->
 </economycore>
