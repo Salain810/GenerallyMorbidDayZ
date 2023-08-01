@@ -1,0 +1,300 @@
+    <type name="Msp_Greenhouse_Vanilla_Kit">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools" />
+        <tag name="floor" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="Msp_Greenhouse_Vanilla">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    </type>
+    <type name="Msp_Greenhouse_White_Kit">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools" />
+        <tag name="floor" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="Msp_Greenhouse_White">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    </type>
+	
+    <type name="Msp_MedCase">
+        <nominal>8</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Medic"/>
+    </type>
+    <type name="Msp_ParamedicBag_Red">
+        <nominal>5</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Medic"/>
+    </type>
+    <type name="Msp_ParamedicBag_Green">
+        <nominal>5</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Medic"/>
+    </type>
+    <type name="Msp_ParamedicBag_Blue">
+        <nominal>5</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Medic"/>
+    </type>
+    <type name="Msp_ParamedicBag_NBC">
+        <nominal>5</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Medic"/>
+    </type>
+	
+	
+    <type name="WG_AdventurerTent_Kit">
+        <nominal>8</nominal>
+        <lifetime>7200</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="WG_AdventurerTent">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    </type>
+    <type name="WG_CampingTent_Blue_Kit">
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="WG_CampingTent_Blue">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    </type>
+    <type name="WG_CampingTent_Gray_Kit">
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="WG_CampingTent_Gray">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    </type>
+	
+    <type name="Msp_PolarBear">
+        <nominal>10</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+	<type name="Msp_SportsBag_Black">
+        <nominal>5</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+    </type>
+	<type name="Msp_SportsBag_Blue">
+        <nominal>5</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+    </type>
+	<type name="Msp_SportsBag_Gray">
+        <nominal>5</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+    </type>
+	<type name="Msp_SportsBag_Green">
+        <nominal>5</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+    </type>
+	<type name="Msp_SportsBag_Red">
+        <nominal>5</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+    </type>
+	<type name="Msp_SlingBackpack_Black">
+        <nominal>5</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+    </type>
+	<type name="Msp_SlingBackpack_Green">
+        <nominal>5</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+    </type>
+	<type name="Msp_SlingBackpack_Gray">
+        <nominal>5</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+    </type>
+	<type name="Msp_SlingBackpack_Tan">
+        <nominal>5</nominal>
+        <lifetime>10800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+    </type>

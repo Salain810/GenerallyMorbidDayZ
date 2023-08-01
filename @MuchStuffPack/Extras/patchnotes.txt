@@ -1,0 +1,14 @@
+Patch notes:
+- Fix gunwall proxies order
+- Fix gunwall proxies not hiding when setting the config to hide guns
+- Fix placement of objects being allowed when too far or too close to the player which caused items to be placed at 0 0 0
+- New bags: Sports bag(9x5) & Sling backpack(7x6 + Chemlight, Personal Radio, Canteen, Knife Sheath)
+Msp_SportsBag_Black
+Msp_SportsBag_Blue
+Msp_SportsBag_Gray
+Msp_SportsBag_Green
+Msp_SportsBag_Red
+Msp_SlingBackpack_Black
+Msp_SlingBackpack_Green
+Msp_SlingBackpack_Gray
+Msp_SlingBackpack_Tan

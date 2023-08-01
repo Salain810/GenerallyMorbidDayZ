@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!--
+NOT a replacment must be add inside your cfgspawnabletypes file  or use CE
+v1  18072023
+ALL MAPS
+MuchCarKey Enable
+CarCover Enavble
+-->
+<spawnabletypes>
+	<type name="Ford_flatbed">
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_doors_driver" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_doors_codriver" chance="0.40" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_doors_hood" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_doors_trunk" chance="0.40" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_wheel" chance="0.40" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MCK_CarKey_Base" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MCK_CarKeyTag_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CamonetCivil" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Ford_flatbed_green">
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_doors_driver_green" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_doors_codriver_green" chance="0.40" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_doors_hood_green" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_doors_trunk" chance="0.40" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_wheel" chance="0.40" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MCK_CarKey_Base" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MCK_CarKeyTag_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CamonetCivil" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Ford_flatbed_blue">
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_doors_driver_blue" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_doors_codriver_blue" chance="0.40" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_doors_hood_blue" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_doors_trunk" chance="0.40" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_wheel" chance="0.40" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MCK_CarKey_Base" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MCK_CarKeyTag_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CamonetCivil" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Ford_flatbed_red">
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_doors_driver_red" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_doors_codriver_red" chance="0.40" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_doors_hood_red" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_doors_trunk" chance="0.40" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_wheel" chance="0.40" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MCK_CarKey_Base" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MCK_CarKeyTag_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CamonetCivil" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>

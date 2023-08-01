@@ -1,0 +1,88 @@
+        {
+            "VehicleName": "Ford_flatbed",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+                "TruckBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "Ford_flatbed_doors_driver",
+                "Ford_flatbed_doors_codriver",
+                "Ford_flatbed_doors_trunk",
+		"Ford_flatbed_doors_hood",
+                "Ford_flatbed_wheel",
+                "Ford_flatbed_wheel",
+                "Ford_flatbed_wheel",
+                "Ford_flatbed_WheelDouble",
+                "Ford_flatbed_WheelDouble",
+                "Ford_flatbed_WheelDouble",
+                "Ford_flatbed_WheelDouble"
+            ]
+        },
+        {
+            "VehicleName": "Ford_flatbed_green",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+                "TruckBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "Ford_flatbed_doors_driver_green",
+                "Ford_flatbed_doors_codriver_green",
+		"Ford_flatbed_doors_hood_green",
+                "Ford_flatbed_doors_trunk",
+                "Ford_flatbed_wheel",
+                "Ford_flatbed_wheel",
+                "Ford_flatbed_wheel",
+                "Ford_flatbed_WheelDouble",
+                "Ford_flatbed_WheelDouble",
+                "Ford_flatbed_WheelDouble",
+                "Ford_flatbed_WheelDouble"
+            ]
+        },
+        {
+            "VehicleName": "Ford_flatbed_blue",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+                "TruckBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "Ford_flatbed_doors_driver_blue",
+                "Ford_flatbed_doors_codriver_blue",
+		"Ford_flatbed_doors_hood_blue",
+                "Ford_flatbed_doors_trunk",
+                "Ford_flatbed_wheel",
+                "Ford_flatbed_wheel",
+                "Ford_flatbed_wheel",
+                "Ford_flatbed_WheelDouble",
+                "Ford_flatbed_WheelDouble",
+                "Ford_flatbed_WheelDouble",
+                "Ford_flatbed_WheelDouble"
+            ]
+        },
+        {
+            "VehicleName": "Ford_flatbed_red",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+                "TruckBattery",
+                "CarRadiator",
+                "HeadlightH7",
+                "HeadlightH7",
+                "Ford_flatbed_doors_driver_red",
+                "Ford_flatbed_doors_codriver_red",
+		"Ford_flatbed_doors_hood_red",
+                "Ford_flatbed_doors_trunk",
+                "Ford_flatbed_wheel",
+                "Ford_flatbed_wheel",
+                "Ford_flatbed_wheel",
+                "Ford_flatbed_WheelDouble",
+                "Ford_flatbed_WheelDouble",
+                "Ford_flatbed_WheelDouble",
+                "Ford_flatbed_WheelDouble"
+            ]
+        }

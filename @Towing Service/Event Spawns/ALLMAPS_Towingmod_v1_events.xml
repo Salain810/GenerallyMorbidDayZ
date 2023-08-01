@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- NOT a replacment must be add inside your events.xml file  or use CE -->
+<!-- v1  18072023-->
+<!-- ALL MAPS -->
+<events>
+	<event name="VehicleFORDTOWING01">
+		<nominal>4</nominal>
+		<min>4</min>
+		<max>4</max>
+		<lifetime>300</lifetime>
+		<restock>0</restock>
+		<saferadius>100</saferadius>
+		<distanceradius>100</distanceradius>
+		<cleanupradius>100</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="1"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Ford_flatbed"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Ford_flatbed_green"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Ford_flatbed_blue"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Ford_flatbed_red"/>
+		</children>
+	</event>
+</events>

@@ -1,0 +1,22 @@
+	<Category> Ford LTL9000
+		Ford_flatbed,			V,		150000,		90000
+		Ford_flatbed_green,		V,		150000,		90000
+		Ford_flatbed_blue,		V,		150000,		90000
+		Ford_flatbed_red,		V,		150000,		90000
+
+	<Category> Ford LTL9000 Parts
+		Ford_flatbed_doors_driver,		*,		1000,		500
+		Ford_flatbed_doors_codriver,		*,		1000,		500
+		Ford_flatbed_doors_hood,		*,		1000,		500
+		Ford_flatbed_doors_driver_green,	*,		1000,		500
+		Ford_flatbed_doors_codriver_green,	*,		1000,		500
+		Ford_flatbed_doors_hood_green,		*,		1000,		500
+		Ford_flatbed_doors_driver_blue,		*,		1000,		500
+		Ford_flatbed_doors_codriver_blue,	*,		1000,		500
+		Ford_flatbed_doors_hood_blue,		*,		1000,		500
+		Ford_flatbed_doors_driver_red,		*,		1000,		500
+		Ford_flatbed_doors_codriver_red,	*,		1000,		500
+		Ford_flatbed_doors_hood_red,		*,		1000,		500
+		Ford_flatbed_doors_trunk,		*,		1000,		500
+		Ford_flatbed_wheel,			*,		1000,		500
+		Ford_flatbed_WheelDouble,		*,		1000,		500

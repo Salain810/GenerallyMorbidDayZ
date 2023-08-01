@@ -1,0 +1,29 @@
+    {
+      "CategoryName": "Ford LTL9000",
+      "Products": [
+	"Ford_flatbed,1,-1,0,150000,90000",
+	"Ford_flatbed_blue,1,-1,0,150000,90000",
+	"Ford_flatbed_red,1,-1,0,150000,90000",
+	"Ford_flatbed_green,1,-1,0,150000,90000"
+      ]
+    },
+    {
+      "CategoryName": "Ford LTL9000 Parts",
+      "Products": [
+	"Ford_flatbed_doors_driver,1,-1,0,1000,500",
+	"Ford_flatbed_doors_codriver,1,-1,0,1000,500",
+	"Ford_flatbed_doors_hood,1,-1,0,1000,500",
+	"Ford_flatbed_doors_driver_green,1,-1,0,1000,500",
+	"Ford_flatbed_doors_codriver_green,1,-1,0,1000,500",
+	"Ford_flatbed_doors_hood_green,1,-1,0,1000,500",
+	"Ford_flatbed_doors_driver_blue,1,-1,0,1000,500",
+	"Ford_flatbed_doors_codriver_blue,1,-1,0,1000,500",
+	"Ford_flatbed_doors_hood_blue,1,-1,0,1000,500",
+	"Ford_flatbed_doors_driver_red,1,-1,0,1000,500",
+	"Ford_flatbed_doors_codriver_red,1,-1,0,1000,500",
+	"Ford_flatbed_doors_hood_red,1,-1,0,1000,500",
+	"Ford_flatbed_doors_trunk,1,-1,0,1000,500",
+	"Ford_flatbed_wheel,1,-1,0,1000,500",
+	"Ford_flatbed_WheelDouble,1,-1,0,1000,500"
+      ]
+    }

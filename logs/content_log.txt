@@ -1,0 +1,126 @@
+
+
+[2023-07-31 13:52:01] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-07-31 13:52:01] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-07-31 13:52:01] Steam library folders configuration will be reset.
+[2023-07-31 13:52:01] No install folder configuration files found.
+
+
+[2023-07-31 14:56:04] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-07-31 14:56:04] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-07-31 14:56:04] Steam library folders configuration will be reset.
+[2023-07-31 14:56:04] No install folder configuration files found.
+
+
+[2023-07-31 15:07:01] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-07-31 15:07:01] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-07-31 15:07:01] Steam library folders configuration will be reset.
+[2023-07-31 15:07:01] No install folder configuration files found.
+
+
+[2023-07-31 15:16:43] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-07-31 15:16:43] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-07-31 15:16:43] Steam library folders configuration will be reset.
+[2023-07-31 15:16:43] No install folder configuration files found.
+
+
+[2023-07-31 15:24:16] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-07-31 15:24:16] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-07-31 15:24:16] Steam library folders configuration will be reset.
+[2023-07-31 15:24:16] No install folder configuration files found.
+
+
+[2023-07-31 15:25:38] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-07-31 15:25:38] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-07-31 15:25:38] Steam library folders configuration will be reset.
+[2023-07-31 15:25:38] No install folder configuration files found.
+
+
+[2023-07-31 15:28:25] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-07-31 15:28:25] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-07-31 15:28:25] Steam library folders configuration will be reset.
+[2023-07-31 15:28:25] No install folder configuration files found.
+
+
+[2023-07-31 15:31:22] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-07-31 15:31:22] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-07-31 15:31:22] Steam library folders configuration will be reset.
+[2023-07-31 15:31:22] No install folder configuration files found.
+
+
+[2023-07-31 15:57:33] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-07-31 15:57:33] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-07-31 15:57:33] Steam library folders configuration will be reset.
+[2023-07-31 15:57:33] No install folder configuration files found.
+
+
+[2023-07-31 16:01:37] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-07-31 16:01:37] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-07-31 16:01:37] Steam library folders configuration will be reset.
+[2023-07-31 16:01:37] No install folder configuration files found.
+
+
+[2023-07-31 16:18:10] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-07-31 16:18:10] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-07-31 16:18:10] Steam library folders configuration will be reset.
+[2023-07-31 16:18:10] No install folder configuration files found.
+
+
+[2023-07-31 16:21:34] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-07-31 16:21:34] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-07-31 16:21:34] Steam library folders configuration will be reset.
+[2023-07-31 16:21:34] No install folder configuration files found.
+
+
+[2023-07-31 20:24:03] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-07-31 20:24:03] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-07-31 20:24:03] Steam library folders configuration will be reset.
+[2023-07-31 20:24:03] No install folder configuration files found.
+
+
+[2023-07-31 20:47:15] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-07-31 20:47:15] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-07-31 20:47:15] Steam library folders configuration will be reset.
+[2023-07-31 20:47:15] No install folder configuration files found.
+
+
+[2023-07-31 20:57:05] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-07-31 20:57:05] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-07-31 20:57:05] Steam library folders configuration will be reset.
+[2023-07-31 20:57:05] No install folder configuration files found.
+
+
+[2023-07-31 21:04:20] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-07-31 21:04:20] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-07-31 21:04:20] Steam library folders configuration will be reset.
+[2023-07-31 21:04:20] No install folder configuration files found.
+
+
+[2023-07-31 21:08:51] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-07-31 21:08:51] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-07-31 21:08:51] Steam library folders configuration will be reset.
+[2023-07-31 21:08:51] No install folder configuration files found.
+
+
+[2023-07-31 21:43:29] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-07-31 21:43:29] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-07-31 21:43:29] Steam library folders configuration will be reset.
+[2023-07-31 21:43:29] No install folder configuration files found.
+
+
+[2023-07-31 21:58:03] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-07-31 21:58:03] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-07-31 21:58:03] Steam library folders configuration will be reset.
+[2023-07-31 21:58:03] No install folder configuration files found.
+
+
+[2023-08-01 09:47:06] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-08-01 09:47:06] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-08-01 09:47:06] Steam library folders configuration will be reset.
+[2023-08-01 09:47:06] No install folder configuration files found.
+
+
+[2023-08-01 10:17:47] Load failed: C:\DayZ\servers\0\steamapps\libraryfolders.vdf.
+[2023-08-01 10:17:47] Load failed: C:\DayZ\servers\0\config\libraryfolders.vdf.
+[2023-08-01 10:17:47] Steam library folders configuration will be reset.
+[2023-08-01 10:17:47] No install folder configuration files found.

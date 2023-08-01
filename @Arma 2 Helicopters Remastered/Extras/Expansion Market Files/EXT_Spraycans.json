@@ -1,0 +1,518 @@
+{
+  "m_Version": 7,
+  "DisplayName": "Arma 2 Helicopters Spraycans",
+  "Icon": "Helicopter",
+  "Color": "FBFCFEFF",
+  "Items": [
+    {
+      "ClassName": "EXT_SprayCan_MH6_WIP",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "EXT_SprayCan_MH6_Digital",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "EXT_SprayCan_MH6_Blueline",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "EXT_SprayCan_MH6_Elliptical",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "EXT_SprayCan_MH6_Furious",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "EXT_SprayCan_MH6_GrayWatcher",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "EXT_SprayCan_MH6_Green",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "EXT_SprayCan_MH6_Jeans",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "EXT_SprayCan_MH6_Resistance",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "EXT_SprayCan_MH6_Shadow",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "EXT_SprayCan_MH6_Sheriff",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "EXT_SprayCan_MH6_Speedy",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "EXT_SprayCan_MH6_Shadow",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "EXT_SprayCan_MH6_Sunset",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "EXT_SprayCan_MH6_Vrana",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "EXT_SprayCan_MH6_Wasp",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "EXT_SprayCan_MH6_Mango",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+      "ClassName": "ext_spraycan_ah64d_baf",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_ah64d_usmc",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_aw159_baf",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_aw159_marine",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_aw159_un",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_ch_47f_baf",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_ch_47f_usmc",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_ka52_black",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_ka52_woodland",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_mi24_acr",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_mi24_chernarus",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_mi24_ion",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_mi24_takistan",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_mi24_un",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_mi8_acr",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_mi8_attack_acr",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_mi8_attack_chedaki",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_mi8_attack_chernarus",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_mi8_attack_civilian",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_mi8_attack_raf",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_mi8_attack_takistan",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_mi8_attack_unitednations",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_mi8_chedaki",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_mi8_chernarus",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_mi8_civilian",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_mi8_raf",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_mi8_takistan",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_mi8_unitednations",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_uh1y_acr",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_uh1y_sar",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_uh1y_usmc",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_uh1h_takistan",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_uh60m_green",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ext_spraycan_uh60m_mev",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

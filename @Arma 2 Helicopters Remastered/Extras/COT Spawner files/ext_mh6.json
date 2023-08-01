@@ -1,0 +1,14 @@
+{
+    "VehicleName": "ext_mh6",
+    "DisplayName": "Extension-MH-6 WIP",
+    "Parts": [
+        "expansionhelicopterbattery",
+        "expansionigniterplug",
+        "expansionhydraulichoses",
+        "headlighth7",
+        "camonet",
+        "wrench",
+        "canistergasoline",
+        "ext_tac_radio"
+    ]
+}
