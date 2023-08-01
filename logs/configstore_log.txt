@@ -85,3 +85,7 @@
 
 [2023-08-01 10:17:47] Loaded store 'install' from 'C:\DayZ\servers\0\config\config.vdf' successfully
 [2023-08-01 10:17:48] Flushed store 'install' to 'C:\DayZ\servers\0\config\config.vdf'
+
+
+[2023-08-01 10:20:44] Loaded store 'install' from 'C:\DayZ\servers\0\config\config.vdf' successfully
+[2023-08-01 10:20:45] Flushed store 'install' to 'C:\DayZ\servers\0\config\config.vdf'
