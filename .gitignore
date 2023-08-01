@@ -10,6 +10,7 @@ config/
 appcache/
 EventManagerLog/
 Users/
+@Logging/
 
 DayZServer_x64.exe
 steam_api64.dll
