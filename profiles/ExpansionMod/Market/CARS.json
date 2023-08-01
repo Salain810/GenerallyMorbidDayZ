@@ -162,6 +162,42 @@
       "Variants": []
     },
     {
+      "ClassName": "ford_flatbed",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 10,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ford_flatbed_blue",
+        "ford_flatbed_green",
+        "ford_flatbed_red"
+      ]
+    },
+    {
+      "ClassName": "glowler_itv",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "wheel_glowler_itv",
+        "wheel_glowler_itv",
+        "wheel_glowler_itv",
+        "wheel_glowler_itv"
+      ],
+      "Variants": []
+    },
+    {
       "ClassName": "hatchback_02",
       "MaxPriceThreshold": 32000,
       "MinPriceThreshold": 16000,
@@ -186,6 +222,55 @@
         "sparkplug",
         "headlighth7",
         "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "jeep_wnagler",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "wheel_jeep_wnagler",
+        "wheel_jeep_wnagler",
+        "wheel_jeep_wnagler",
+        "wheel_jeep_wnagler",
+        "jeep_wnagler_doors_driver",
+        "jeep_wnagler_doors_codriver"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "lapv",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "lapv_doors_trunk",
+        "lapv_doors_cargo1",
+        "lapv_doors_cargo2",
+        "lapv_doors_driver",
+        "lapv_doors_codriver",
+        "wheel_lapv",
+        "wheel_lapv",
+        "wheel_lapv",
+        "wheel_lapv"
       ],
       "Variants": []
     },
@@ -358,7 +443,6 @@
         "vg7_corvette_green",
         "vg7_corvette_maroon",
         "vg7_corvette_purple",
-        "vg7_corvette_pink",
         ""
       ]
     },
@@ -483,36 +567,6 @@
       "Variants": []
     },
     {
-      "ClassName": "vg7_corvette_pink",
-      "MaxPriceThreshold": 500000,
-      "MinPriceThreshold": 250000,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 10,
-      "MinStockThreshold": 10,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [
-        "sparkplug",
-        "carbattery",
-        "carradiator",
-        "headlighth7",
-        "headlighth7",
-        "headlighth7",
-        "vg7_l_door_pink",
-        "vg7_r_door_pink",
-        "vg7_l_cargo_door_pink",
-        "vg7_r_cargo_door_pink",
-        "vg7_h_door_pink",
-        "vg7_roof_rack",
-        "vg7_wheel",
-        "vg7_wheel",
-        "vg7_wheel",
-        "vg7_wheel",
-        "powergenerator",
-        "vg7_drybag_pink"
-      ],
-      "Variants": []
-    },
-    {
       "ClassName": "vg7_corvette_purple",
       "MaxPriceThreshold": 500000,
       "MinPriceThreshold": 250000,
@@ -570,91 +624,6 @@
         "powergenerator"
       ],
       "Variants": []
-    },
-    {
-      "ClassName": "glowler_itv",
-      "MaxPriceThreshold": 500000,
-      "MinPriceThreshold": 25000,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [
-        "sparkplug",
-        "carbattery",
-        "carradiator",
-        "headlighth7",
-        "headlighth7",
-        "wheel_glowler_itv",
-        "wheel_glowler_itv",
-        "wheel_glowler_itv",
-        "wheel_glowler_itv"
-      ],
-      "Variants": []
-    },
-    {
-      "ClassName": "jeep_wnagler",
-      "MaxPriceThreshold": 0,
-      "MinPriceThreshold": 0,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [
-        "sparkplug",
-        "carbattery",
-        "carradiator",
-        "headlighth7",
-        "headlighth7",
-        "wheel_jeep_wnagler",
-        "wheel_jeep_wnagler",
-        "wheel_jeep_wnagler",
-        "wheel_jeep_wnagler",
-        "jeep_wnagler_doors_driver",
-        "jeep_wnagler_doors_codriver"
-      ],
-      "Variants": []
-    },
-    {
-      "ClassName": "lapv",
-      "MaxPriceThreshold": 500000,
-      "MinPriceThreshold": 30000,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 100,
-      "MinStockThreshold": 100,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [
-        "sparkplug",
-        "carbattery",
-        "carradiator",
-        "headlighth7",
-        "headlighth7",
-        "lapv_doors_trunk",
-        "lapv_doors_cargo1",
-        "lapv_doors_cargo2",
-        "lapv_doors_driver",
-        "lapv_doors_codriver",
-        "wheel_lapv",
-        "wheel_lapv",
-        "wheel_lapv",
-        "wheel_lapv"
-      ],
-      "Variants": []
-    },
-    {
-      "ClassName": "ford_flatbed",
-      "MaxPriceThreshold": 25000,
-      "MinPriceThreshold": 15000,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 10,
-      "MinStockThreshold": 10,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "ford_flatbed_blue",
-        "ford_flatbed_green",
-        "ford_flatbed_red"
-      ]
     }
   ]
 }
