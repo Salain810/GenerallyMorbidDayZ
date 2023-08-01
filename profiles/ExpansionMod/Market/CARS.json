@@ -190,6 +190,34 @@
       "Variants": []
     },
     {
+      "ClassName": "mrap_4x4",
+      "MaxPriceThreshold": 700000,
+      "MinPriceThreshold": 500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 10,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7",
+        "mrap_wheel",
+        "mrap_wheel",
+        "mrap_wheel",
+        "mrap_wheel",
+        "mrap_wheel",
+        "mrap_doors_driver",
+        "mrap_doors_codriver",
+        "mrap_doors_cargo1",
+        "mrap_doors_cargo2",
+        "mrap_doors_trunk",
+        "mrap_doors_hood"
+      ],
+      "Variants": []
+    },
+    {
       "ClassName": "offroad_02",
       "MaxPriceThreshold": 100000,
       "MinPriceThreshold": 50000,
@@ -540,29 +568,6 @@
         "vg7_wheel",
         "vg7_wheel",
         "powergenerator"
-      ],
-      "Variants": []
-    },
-    {
-      "ClassName": "mrap_4x4",
-      "MaxPriceThreshold": 700000,
-      "MinPriceThreshold": 500000,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 10,
-      "MinStockThreshold": 0,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [
-        "mrap_doors_cargo1",
-        "mrap_doors_cargo2",
-        "mrap_doors_codriver",
-        "mrap_doors_driver",
-        "mrap_doors_hood",
-        "mrap_doors_trunk",
-        "mrap_wheel",
-        "mrap_wheel",
-        "mrap_wheel",
-        "mrap_wheel",
-        "mrap_wheel"
       ],
       "Variants": []
     }
