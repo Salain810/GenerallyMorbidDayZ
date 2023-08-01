@@ -6,7 +6,7 @@
   "PlayerTagsColor": 0,
   "PlayerNameColor": 0,
   "OnlyInSafeZones": 1,
-  "OnlyInTerritories": 0,
+  "OnlyInTerritories": 1,
   "ShowPlayerItemInHands": 0,
   "ShowNPCTags": 0,
   "ShowPlayerFaction": 0,

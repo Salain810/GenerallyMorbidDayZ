@@ -722,6 +722,83 @@
       "Variants": []
     },
     {
+      "ClassName": "mrap_doors_cargo1",
+      "MaxPriceThreshold": 225,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mrap_doors_cargo2",
+      "MaxPriceThreshold": 225,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mrap_doors_codriver",
+      "MaxPriceThreshold": 225,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mrap_doors_driver",
+      "MaxPriceThreshold": 225,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mrap_doors_hood",
+      "MaxPriceThreshold": 225,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mrap_doors_trunk",
+      "MaxPriceThreshold": 225,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mrap_wheel",
+      "MaxPriceThreshold": 225,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
       "ClassName": "offroad_02_door_1_1",
       "MaxPriceThreshold": 900,
       "MinPriceThreshold": 450,
@@ -980,78 +1057,116 @@
       "Variants": []
     },
     {
-      "ClassName": "mrap_doors_cargo1",
-      "MaxPriceThreshold": 225,
-      "MinPriceThreshold": 100,
+      "ClassName": "vg7_h_door",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 500,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": []
+      "Variants": [
+        "vg7_h_door_blue",
+        "vg7_h_door_gold",
+        "vg7_h_door_green",
+        "vg7_h_door_hellrider",
+        "vg7_h_door_maroon",
+        "vg7_h_door_purple",
+        "vg7_h_door_red"
+      ]
     },
     {
-      "ClassName": "mrap_doors_cargo2",
-      "MaxPriceThreshold": 225,
-      "MinPriceThreshold": 100,
+      "ClassName": "vg7_l_cargo_door",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 500,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": []
+      "Variants": [
+        "vg7_l_cargo_door_blue",
+        "vg7_l_cargo_door_gold",
+        "vg7_l_cargo_door_green",
+        "vg7_l_cargo_door_maroon",
+        "vg7_l_cargo_door_purple",
+        "vg7_l_cargo_door_red"
+      ]
     },
     {
-      "ClassName": "mrap_doors_codriver",
-      "MaxPriceThreshold": 225,
-      "MinPriceThreshold": 100,
+      "ClassName": "vg7_l_door",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 500,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": []
+      "Variants": [
+        "vg7_l_door_blue",
+        "vg7_l_door_gold",
+        "vg7_l_door_green",
+        "vg7_l_door_maroon",
+        "vg7_l_door_purple",
+        "vg7_l_door_red"
+      ]
     },
     {
-      "ClassName": "mrap_doors_driver",
-      "MaxPriceThreshold": 225,
-      "MinPriceThreshold": 100,
+      "ClassName": "vg7_r_cargo_door",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 500,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": []
+      "Variants": [
+        "vg7_r_cargo_door_blue",
+        "vg7_r_cargo_door_gold",
+        "vg7_r_cargo_door_green",
+        "vg7_r_cargo_door_maroon",
+        "vg7_r_cargo_door_purple",
+        "vg7_r_cargo_door_red"
+      ]
     },
     {
-      "ClassName": "mrap_doors_hood",
-      "MaxPriceThreshold": 225,
-      "MinPriceThreshold": 100,
+      "ClassName": "vg7_r_door",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 500,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": []
+      "Variants": [
+        "vg7_r_door_blue",
+        "vg7_r_door_gold",
+        "vg7_r_door_green",
+        "vg7_r_door_maroon",
+        "vg7_r_door_purple",
+        "vg7_r_door_red"
+      ]
     },
     {
-      "ClassName": "mrap_doors_trunk",
-      "MaxPriceThreshold": 225,
-      "MinPriceThreshold": 100,
+      "ClassName": "vg7_roof_rack",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 500,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": []
+      "Variants": [
+        "vg7_roof_rack_2"
+      ]
     },
     {
-      "ClassName": "mrap_wheel",
-      "MaxPriceThreshold": 225,
-      "MinPriceThreshold": 100,
+      "ClassName": "vg7_wheel",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 500,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
