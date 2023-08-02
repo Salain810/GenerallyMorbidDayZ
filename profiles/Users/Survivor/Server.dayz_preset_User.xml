@@ -995,6 +995,9 @@
     <input name="UAToggleHood">
         <btn name="kT" />
     </input>
+    <input name="UAExpansionPartyHUDToggle">
+        <btn name="kMultiply" />
+    </input>
     <input name="UAExpansionMapDeleteMarker">
         <btn name="kDelete" />
     </input>
