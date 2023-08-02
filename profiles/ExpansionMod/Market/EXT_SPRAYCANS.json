@@ -216,17 +216,6 @@
       "Variants": []
     },
     {
-      "ClassName": "ext_spraycan_mh6_shadow",
-      "MaxPriceThreshold": 3000,
-      "MinPriceThreshold": 3000,
-      "SellPricePercent": 0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
       "ClassName": "ext_spraycan_mh6_sheriff",
       "MaxPriceThreshold": 3000,
       "MinPriceThreshold": 3000,

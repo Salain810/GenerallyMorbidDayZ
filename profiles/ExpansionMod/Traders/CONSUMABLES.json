@@ -10,12 +10,11 @@
     "expansionbanknotehryvnia"
   ],
   "Categories": [
-    "DRINKS",
-    "FOOD",
     "FRUIT_AND_VEGETABLES",
+    "FOOD",
     "MEAT",
-    "FISH",
-    "CANNABISPLUS"
+    "DRINKS",
+    "FISH"
   ],
   "Items": {}
 }

@@ -10,20 +10,8 @@
     "expansionbanknotehryvnia"
   ],
   "Categories": [
-    "SNAFU_MAGS",
-    "CANNABISPLUS",
-    "SNAFU_EXTRAS",
-    "SNAFU_SUPPRESSORS",
-    "SNAFU_SCOPES",
-    "SNAFU_GRIPS",
-    "SNAFU_STOCKS",
-    "SNAFU_HANDGUARDS",
-    "SNAFU_BIPODS"
+    "BLACK MARKET CANNABIS:2",
+    "CANNABISPLUS"
   ],
-  "Items": {
-    "cigarettepack_chernamorka": 1,
-    "cigarettepack_merkur": 1,
-    "cigarettepack_partyzanka": 1,
-    "cp_rollingpapers": 1
-  }
+  "Items": {}
 }

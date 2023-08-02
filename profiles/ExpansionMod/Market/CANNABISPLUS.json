@@ -32,44 +32,6 @@
       "Variants": []
     },
     {
-      "ClassName": "cp_cannabisbagskunk",
-      "MaxPriceThreshold": 1200,
-      "MinPriceThreshold": 1200,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "cp_cannabisbagblue",
-        "cp_cannabisbagkush",
-        "cp_cannabisbagstardawg",
-        "cp_cannabisbagfuture",
-        "cp_cannabisbags1",
-        "cp_cannabisbagnomad",
-        "cp_cannabisbagblackfrost"
-      ]
-    },
-    {
-      "ClassName": "cp_cannabisbrickskunk",
-      "MaxPriceThreshold": 1200,
-      "MinPriceThreshold": 1200,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "cp_cannabisbrickblue",
-        "cp_cannabisbrickkush",
-        "cp_cannabisbrickstardawg",
-        "cp_cannabisbrickfuture",
-        "cp_cannabisbricks1",
-        "cp_cannabisbricknomad",
-        "cp_cannabisbrickblackfrost"
-      ]
-    },
-    {
       "ClassName": "cp_cannabisseedspackskunk",
       "MaxPriceThreshold": 1500,
       "MinPriceThreshold": 1500,
