@@ -1169,6 +1169,24 @@
     <input name="UAToggleAUXlight">
         <btn name="kO" />
     </input>
+    <input name="eAICommandMenu">
+        <btn name="kT" />
+    </input>
+    <input name="eAITestInput">
+        <btn name="kY" />
+    </input>
+    <input name="eAITestLRIncrease">
+        <btn name="kRight" />
+    </input>
+    <input name="eAITestLRDecrease">
+        <btn name="kLeft" />
+    </input>
+    <input name="eAITestUDIncrease">
+        <btn name="kUp" />
+    </input>
+    <input name="eAITestUDDecrease">
+        <btn name="kDown" />
+    </input>
     <input name="UAExpansionSnappingDirectionNext">
         <btn name="mWheelUp" />
     </input>
@@ -1186,6 +1204,12 @@
     </input>
     <input name="UAExpansionHideChatToggle">
         <btn name="kDivide" />
+    </input>
+    <input name="UAExpansionQuestToggle">
+        <btn name="kSlash" />
+    </input>
+    <input name="UAExpansionQuestLogToggle">
+        <btn name="kO" />
     </input>
     <controller name="PCKeyboard">
         <limit name="doubleclick" value="0.500000" />

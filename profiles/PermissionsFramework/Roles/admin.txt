@@ -94,6 +94,10 @@ Expansion.Territories.Delete 2
 Expansion.Territories.Delete.All 2
 Expansion.Territories.Delete.Destroyed 2
 Expansion.Territories.Teleport 2
+Expansion.Groups 2
+Expansion.Groups.View 2
+Expansion.Groups.EditGroup 2
+Expansion.Groups.DeleteGroup 2
 COT 2
 COT.View 2
 Entity 2
