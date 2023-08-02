@@ -12,7 +12,10 @@
   "Categories": [
     "HELICOPTERS",
     "VEHICLE_PARTS",
-    "BATTERIES"
+    "BATTERIES",
+    "EXT_HELICOPTERS",
+    "EXT_PARTS_HELICOPTERS",
+    "EXT_SPRAYCANS"
   ],
   "Items": {}
 }
