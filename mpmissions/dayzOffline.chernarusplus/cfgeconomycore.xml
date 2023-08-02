@@ -74,11 +74,17 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="CustomTypes/MunghardsItemPack">
 		<file name="MunghardsItemPack.xml" type="types" />
 	</ce>
-		<ce folder="CustomTypes/vg7_corvette">
+	<ce folder="CustomTypes/vg7_corvette">
 		<file name="vg7_corvette.xml" type="types" />
 	</ce>
-		<ce folder="CustomTypes/ArmoredVehiclePack">
+	<ce folder="CustomTypes/ArmoredVehiclePack">
 		<file name="ArmoredVehiclePack.xml" type="types" />
+	</ce>
+	<ce folder="CustomTypes/ARMA">
+		<file name="ext_covers_types.xml" type="types" />
+	</ce>
+	<ce folder="CustomTypes/ARMA">
+		<file name="ext_types.xml" type="types" />
 	</ce>
 	<!-- ....To here -->
 </economycore>
