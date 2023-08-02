@@ -11,6 +11,7 @@ appcache/
 EventManagerLog/
 Users/
 @Logging/
+profiles/BedRespawn2/PlayerData/
 
 DayZServer_x64.exe
 steam_api64.dll
