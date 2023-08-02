@@ -1,15 +1,55 @@
 {
-    "m_Version": 6,
-    "m_DisplayName": "BLACKMARKET",
-    "Position": [
-        8144.40771484375,
-        479.42559814453127,
-        9114.296875
-    ],
-    "Radius": 100.0,
-    "BuyPricePercent": 100.0,
-    "SellPricePercent": 1.0,
-    "Stock": {
-
-    }
+  "m_Version": 6,
+  "m_DisplayName": "BLACKMARKET",
+  "Position": [
+    8144.40771,
+    479.425598,
+    9114.29688
+  ],
+  "Radius": 100.0,
+  "BuyPricePercent": 100.0,
+  "SellPricePercent": -1.0,
+  "Stock": {
+    "cigarettepack_chernamorka": 1,
+    "cigarettepack_merkur": 1,
+    "cigarettepack_partyzanka": 1,
+    "cp_bagger": 100,
+    "cp_cannabisbagblackfrost": 1,
+    "cp_cannabisbagblue": 1,
+    "cp_cannabisbagfuture": 1,
+    "cp_cannabisbagkush": 1,
+    "cp_cannabisbagnomad": 1,
+    "cp_cannabisbagskunk": 1,
+    "cp_cannabisbagstardawg": 1,
+    "cp_cannabisbrickblackfrost": 1,
+    "cp_cannabisbrickblue": 1,
+    "cp_cannabisbrickfuture": 1,
+    "cp_cannabisbrickkush": 1,
+    "cp_cannabisbricknomad": 1,
+    "cp_cannabisbrickskunk": 1,
+    "cp_cannabisbrickstardawg": 1,
+    "cp_cannabisseedspackskunk": 1,
+    "cp_cannabisseedspackblue": 1,
+    "cp_cannabisseedspackkush": 1,
+    "cp_cannabisseedspackstardawg": 1,
+    "cp_cannabisseedspackfuture": 1,
+    "cp_cannabisseedspacks1": 1,
+    "cp_cannabisseedspacknomad": 1,
+    "cp_cannabisseedspackblackfrost": 1,
+    "cp_cigarettepack_cannabisskunk": 1,
+    "cp_cigarettepack_cannabisblue": 1,
+    "cp_cigarettepack_cannabiskush": 1,
+    "cp_cigarettepack_cannabisstardawg": 1,
+    "cp_cigarettepack_cannabisfuture": 1,
+    "cp_cigarettepack_cannabiss1": 1,
+    "cp_cigarettepack_cannabisnomad": 1,
+    "cp_cigarettepack_cannabisblackfrost": 1,
+    "cp_drypost_kit": 100,
+    "cp_emptybag": 100,
+    "cp_plasticroll": 100,
+    "cp_plasticwrapper": 100,
+    "cp_relief_balm": 1,
+    "cp_rollingpapers": 1,
+    "cp_workbench_kit": 100
+  }
 }
