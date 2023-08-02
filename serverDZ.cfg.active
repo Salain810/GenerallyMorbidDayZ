@@ -34,3 +34,4 @@ disableCrosshair = 0;
 guaranteedUpdates = 1;
 logFile = "serverconsole.log";
 steamProtocolMaxDataSize = 2048;
+dogtagsPlaytimeRequired = 600;
