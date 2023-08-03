@@ -92,5 +92,8 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="CustomTypes/BlackoutsATM">
 		<file name="BLACKOUTSATM.xml" type="types" />
 	</ce>
+	<ce folder="CustomTypes/MVS">
+		<file name="MVS.xml" type="types" />
+	</ce>
 	<!-- ....To here -->
 </economycore>
