@@ -7,10 +7,13 @@
   "RequiredCompletedQuestID": -1,
   "TraderIcon": "Trader",
   "Currencies": [
+    "expansionbanknotehryvnia",
     "expansionbanknoteeuro",
     "expansionbanknoteusd"
   ],
-  "Categories": [],
+  "Categories": [
+    "DOGTAGS:2"
+  ],
   "Items": {
     "expansionbanknotehryvnia": 0
   }

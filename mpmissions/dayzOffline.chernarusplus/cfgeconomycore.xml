@@ -98,5 +98,8 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="CustomTypes/ATV">
 		<file name="ATV.xml" type="types" />
 	</ce>
+	<ce folder="CustomTypes/Dogtags">
+		<file name="Dogtags.xml" type="types" />
+	</ce>
 	<!-- ....To here -->
 </economycore>
