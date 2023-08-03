@@ -86,5 +86,11 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="CustomTypes/ARMA">
 		<file name="ext_types.xml" type="types" />
 	</ce>
+	<ce folder="CustomTypes/Paragon">
+		<file name="Paragon.xml" type="types" />
+	</ce>
+	<ce folder="CustomTypes/BlackoutsATM">
+		<file name="BLACKOUTSATM.xml" type="types" />
+	</ce>
 	<!-- ....To here -->
 </economycore>

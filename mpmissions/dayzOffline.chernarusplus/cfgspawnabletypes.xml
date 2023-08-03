@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-
 <spawnabletypes>
 	<type name="Barrel_Blue">
 		<hoarder />
@@ -58,23 +57,18 @@
 	<type name="NVGoggles">
 		<damage min="0.0" max="0.32" />
 	</type>
-	
 	<type name="KazuarOptic">
 		<damage min="0.0" max="0.32" />
 	</type>
-	
 	<type name="StarlightOptic">
 		<damage min="0.0" max="0.32" />
 	</type>
-	
 	<type name="AugOptic">
 		<damage min="0.0" max="0.0" />
 	</type>
-	
 	<type name="SSG82Optic">
 		<damage min="0.0" max="0.0" />
 	</type>
-	
 	<type name="BandageDressing">
 		<damage min="0.0" max="0.0" />
 	</type>
@@ -232,55 +226,145 @@
 		</cargo>
 	</type>
 	<type name="AmmoBox">
-		<cargo chance="0.20"> <item name="AmmoBox_9x39_20Rnd" /> </cargo>			
-		<cargo chance="0.20"> <item name="AmmoBox_9x39_20Rnd" /> </cargo>			
-		<cargo chance="0.10"> <item name="AmmoBox_9x39AP_20Rnd" /> </cargo>			
-		<cargo chance="0.10"> <item name="AmmoBox_9x39AP_20Rnd" /> </cargo>	
-		<cargo chance="0.25"> <item name="AmmoBox_308Win_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_308Win_20Rnd" /> </cargo>			
-		<cargo chance="0.15"> <item name="AmmoBox_308WinTracer_20Rnd" /> </cargo>			
-		<cargo chance="0.15"> <item name="AmmoBox_308WinTracer_20Rnd" /> </cargo>	
-		<cargo chance="0.25"> <item name="AmmoBox_762x54_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_762x54_20Rnd" /> </cargo>				
-		<cargo chance="0.15"> <item name="AmmoBox_762x54Tracer_20Rnd" /> </cargo>			
-		<cargo chance="0.15"> <item name="AmmoBox_762x54Tracer_20Rnd" /> </cargo>	
-		<cargo chance="0.5"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_545x39Tracer_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_545x39Tracer_20Rnd" /> </cargo>		
-		<cargo chance="0.5"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_556x45Tracer_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_556x45Tracer_20Rnd" /> </cargo>		
-		<cargo chance="0.5"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>			
-		<cargo chance="0.5"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>		
-		<cargo chance="0.25"> <item name="AmmoBox_762x39Tracer_20Rnd" /> </cargo>			
-		<cargo chance="0.25"> <item name="AmmoBox_762x39Tracer_20Rnd" /> </cargo>
-		<cargo chance="0.01"> <item name="Ammo_40mm_ChemGas" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_Black" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_Red" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_White" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Smoke_Green" /> </cargo>
-		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.50"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="1.0"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.50"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.20"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		<cargo chance="0.10"> <item name="Ammo_40mm_Explosive" /> </cargo>
-		
+		<cargo chance="0.20">
+			<item name="AmmoBox_9x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="AmmoBox_9x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.10">
+			<item name="AmmoBox_9x39AP_20Rnd" />
+		</cargo>
+		<cargo chance="0.10">
+			<item name="AmmoBox_9x39AP_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_308Win_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_308Win_20Rnd" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="AmmoBox_308WinTracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="AmmoBox_308WinTracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_762x54_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_762x54_20Rnd" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="AmmoBox_762x54Tracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="AmmoBox_762x54Tracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_545x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_545x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_545x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_545x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_545x39Tracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_545x39Tracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_556x45_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_556x45_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_556x45_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_556x45_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_556x45Tracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_556x45Tracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_762x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_762x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_762x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AmmoBox_762x39_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_762x39Tracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="AmmoBox_762x39Tracer_20Rnd" />
+		</cargo>
+		<cargo chance="0.01">
+			<item name="Ammo_40mm_ChemGas" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="Ammo_40mm_Smoke_Black" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="Ammo_40mm_Smoke_Red" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="Ammo_40mm_Smoke_White" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="Ammo_40mm_Smoke_Green" />
+		</cargo>
+		<cargo chance="0.10">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="0.50">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="0.50">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
+		<cargo chance="0.10">
+			<item name="Ammo_40mm_Explosive" />
+		</cargo>
 	</type>
-	
 	<type name="AirborneMask">
 		<damage min="0.0" max="0.35" />
 		<cargo chance="0.2">
@@ -838,56 +922,72 @@
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo chance="0.01">
+			<item name="Derringer_Pink" />
+		</cargo>
 	</type>
 	<type name="MiniDress_PinkChecker">
 		<cargo chance="0.10">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo chance="0.01">
+			<item name="Derringer_Pink" />
+		</cargo>
 	</type>
 	<type name="MiniDress_RedChecker">
 		<cargo chance="0.10">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo chance="0.01">
+			<item name="Derringer_Pink" />
+		</cargo>
 	</type>
 	<type name="MiniDress_WhiteChecker">
 		<cargo chance="0.10">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo chance="0.01">
+			<item name="Derringer_Pink" />
+		</cargo>
 	</type>
 	<type name="MiniDress_GreenChecker">
 		<cargo chance="0.10">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo chance="0.01">
+			<item name="Derringer_Pink" />
+		</cargo>
 	</type>
 	<type name="MiniDress_BrownChecker">
 		<cargo chance="0.10">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo chance="0.01">
+			<item name="Derringer_Pink" />
+		</cargo>
 	</type>
 	<type name="MiniDress_BlueChecker">
 		<cargo chance="0.10">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo chance="0.01">
+			<item name="Derringer_Pink" />
+		</cargo>
 	</type>
 	<type name="MiniDress_BlueWithDots">
 		<cargo chance="0.10">
 			<item name="Ammo_9x19" chance="0.20" />
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo chance="0.01">
+			<item name="Derringer_Pink" />
+		</cargo>
 	</type>
 	<type name="QuiltedJacket_Black">
 		<cargo preset="mixVillage" />
@@ -1088,15 +1188,14 @@
 		<attachments preset="vestsArmy" />
 	</type>
 	<type name="ZmbM_usSoldier_Officer_Desert">
-		<cargo preset="foodArmy" />		
+		<cargo preset="foodArmy" />
 		<attachments preset="OfficerHatArmy" />
 	</type>
 	<type name="ZmbM_usSoldier_Heavy_Woodland">
-		<cargo preset="foodArmy" />		
+		<cargo preset="foodArmy" />
 		<attachments preset="HeavyArmorArmy" />
 		<attachments preset="HeavyHelmetArmy" />
 	</type>
-	
 	<!--City-->
 	<type name="ZmbF_Clerk_Normal_Blue">
 		<cargo preset="foodCity" />
@@ -1771,7 +1870,7 @@
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.10">
-			<item name="Mag_SSG82_5rnd" chance="1.0" />	
+			<item name="Mag_SSG82_5rnd" chance="1.0" />
 		</cargo>
 		<attachments preset="hatsPolice" />
 	</type>
@@ -1779,7 +1878,7 @@
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.10">
-			<item name="Mag_SSG82_5rnd" chance="1.0" />		
+			<item name="Mag_SSG82_5rnd" chance="1.0" />
 		</cargo>
 		<attachments preset="hatsPolice" />
 	</type>
@@ -1788,7 +1887,7 @@
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.30">
 			<item name="Mag_SSG82_5rnd" chance="0.50" />
-			<item name="Mag_Scout_5Rnd" chance="0.50" />			
+			<item name="Mag_Scout_5Rnd" chance="0.50" />
 		</cargo>
 		<attachments preset="hatsPolice" />
 	</type>
@@ -2179,7 +2278,7 @@
 		<attachments chance="0.10">
 			<item name="Mag_VSS_10Rnd" chance="1.00" />
 		</attachments>
-	</type>	
+	</type>
 	<type name="ASVAL">
 		<attachments chance="0.10">
 			<item name="Mag_VAL_20Rnd" chance="1.00" />
@@ -2189,7 +2288,7 @@
 			<item name="M4_T3NRDSOptic" chance="0.15" />
 			<item name="ReflexOptic" chance="0.15" />
 			<item name="ACOGOptic" chance="0.15" />
-		</attachments>	
+		</attachments>
 		<attachments chance="0.10">
 			<item name="TLRLight" chance="1.00" />
 		</attachments>
@@ -2325,7 +2424,7 @@
 			<item name="M4_T3NRDSOptic" chance="0.15" />
 			<item name="ReflexOptic" chance="0.15" />
 			<item name="ACOGOptic" chance="0.15" />
-		</attachments>	
+		</attachments>
 		<attachments chance="0.10">
 			<item name="TLRLight" chance="1.00" />
 		</attachments>
@@ -2488,7 +2587,7 @@
 			<item name="Mag_P1_8Rnd" chance="1.00" />
 		</attachments>
 	</type>
-		<type name="SSG82">
+	<type name="SSG82">
 		<attachments chance="0.1">
 			<item name="Mag_SSG82_5rnd" chance="1.00" />
 		</attachments>
@@ -2542,8 +2641,7 @@
 	</type>
 	<type name="Canteen">
 	</type>
-	
-<!-- FUTURE
+	<!-- FUTURE
 	<type name="M249">
 		<attachments chance="1.00">
 			<item name="M249_Hndgrd" chance="1.00" />
@@ -2633,7 +2731,6 @@
 			<item name="Battery9V" chance="1.00" />
 		</attachments>
 	</type>
-	
 	<!-- XMAS -->
 	<type name="GiftBox_Small_1">
 		<cargo preset="Xmas_Clothes_Small" />
@@ -2835,7 +2932,6 @@
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
 	</type>
-	
 	<!-- VEHICLES -->
 	<type name="OffroadHatchback">
 		<attachments chance="1.00">
@@ -3601,55 +3697,55 @@
 			<item name="Truck_01_Door_2_1_Orange" chance="0.50" />
 		</attachments>
 	</type>
-		<type name="MassKivaari">
-        <attachments chance="0.20">
-            <item name="HuntingOptic" chance="0.50" />
-            <item name="ACOGOptic" chance="0.50" />
-        </attachments>
-    </type>
+	<type name="MassKivaari">
+		<attachments chance="0.20">
+			<item name="HuntingOptic" chance="0.50" />
+			<item name="ACOGOptic" chance="0.50" />
+		</attachments>
+	</type>
 	<type name="Massm300">
-        <attachments chance="0.20">
-            <item name="HuntingOptic" chance="0.50" />
-            <item name="ACOGOptic" chance="0.50" />
-        </attachments>
-    </type>
+		<attachments chance="0.20">
+			<item name="HuntingOptic" chance="0.50" />
+			<item name="ACOGOptic" chance="0.50" />
+		</attachments>
+	</type>
 	<type name="Massarmsan">
-        <attachments chance="0.20">
-            <item name="HuntingOptic" chance="1.0" />
-        </attachments>
-        <attachments chance="0.30">
-            <item name="shotgunSuppressor" chance="1.0" />
-        </attachments>
-    </type>
+		<attachments chance="0.20">
+			<item name="HuntingOptic" chance="1.0" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="shotgunSuppressor" chance="1.0" />
+		</attachments>
+	</type>
 	<type name="MassB52">
-        <attachments chance="0.20">
-            <item name="ACOGOptic" chance="1.0" />
-        </attachments>
-    </type>
+		<attachments chance="0.20">
+			<item name="ACOGOptic" chance="1.0" />
+		</attachments>
+	</type>
 	<type name="MassScout556">
 		<attachments chance="0.50">
-            <item name="MassScoutLRS" chance="1.0" />
-        </attachments>
-    </type>
+			<item name="MassScoutLRS" chance="1.0" />
+		</attachments>
+	</type>
 	<type name="Ford_flatbed">
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_doors_driver" chance="0.40" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_doors_codriver" chance="0.40" />
-		</attachments>	
+		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_doors_hood" chance="0.40" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_doors_trunk" chance="0.40" />
-		</attachments>	
+		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_wheel" chance="0.40" />
-		</attachments>	
+		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
 		</attachments>
@@ -3693,19 +3789,19 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_doors_codriver_green" chance="0.40" />
-		</attachments>	
+		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_doors_hood_green" chance="0.40" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_doors_trunk" chance="0.40" />
-		</attachments>	
+		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_wheel" chance="0.40" />
-		</attachments>	
+		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
 		</attachments>
@@ -3749,19 +3845,19 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_doors_codriver_blue" chance="0.40" />
-		</attachments>	
+		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_doors_hood_blue" chance="0.40" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_doors_trunk" chance="0.40" />
-		</attachments>	
+		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_wheel" chance="0.40" />
-		</attachments>	
+		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
 		</attachments>
@@ -3805,19 +3901,19 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_doors_codriver_red" chance="0.40" />
-		</attachments>	
+		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_doors_hood_red" chance="0.40" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_doors_trunk" chance="0.40" />
-		</attachments>	
+		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_wheel" chance="0.40" />
-		</attachments>	
+		</attachments>
 		<attachments chance="1.00">
 			<item name="Ford_flatbed_WheelDouble" chance="0.40" />
 		</attachments>
@@ -3855,7 +3951,1295 @@
 			<item name="CamonetCivil" chance="1.00" />
 		</attachments>
 	</type>
-<!--
+	<type name="HackingTablet">
+		<nominal>2</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="HackingBattery">
+		<nominal>8</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>4</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Tcrate_Black">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Tcrate_Grey">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Tcrate_Tan">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Tcrate_Green">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Tcrate_Blue">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Scrate_Black">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Scrate_Grey">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Scrate_Tan">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Scrate_Green">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Scrate_Blue">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Mcrate_Black">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Mcrate_Grey">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Mcrate_Tan">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Mcrate_Green">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Mcrate_Blue">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_GunRack_Black">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_GunRack_Tan">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_GunRack_Green">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_DGunRack_Black">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_DGunRack_Tan">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_DGunRack_Green">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_GunCase_Brown">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_GunCase_Grey">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_GunCase_Cherry">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_DGunCase_Brown">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_DGunCase_Grey">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_DGunCase_Cherry">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_GunWall_Black">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_GunWall_Tan">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_GunWall_Green">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_IceBox">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Locker_Black">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Locker_Green">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Locker_Purple">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Locker_Blue">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Locker_Red">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Locker_White">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Locker_Yellow">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_MetalRack_Black">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_MetalRack_Tan">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_MetalRack_Green">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_HotDog_Cart">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Mcabinet_Black">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Mcabinet_Tan">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Mcabinet_Green">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Mlocker_Black">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Mlocker_Grey">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Mlocker_Tan">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Mlocker_Green">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Mlocker_Blue">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Safe_Black">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Safe_Green">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Safe_Grey">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Safe_Blue">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Safe_Gold">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Safe_White">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Safe_Rainbow">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_SmallSafe_Black">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_SmallSafe_Green">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_SmallSafe_Grey">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_SmallSafe_Blue">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_SmallSafe_Gold">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_SmallSafe_White">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_SmallSafe_Rainbow">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_BigSafe_Black">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_BigSafe_Grey">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_ToolB_Black">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_ToolB_Red">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_ToolB_White">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_ToolB_Blue">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_ToolB_Yellow">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Wood_Crate">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Pallet_Black">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Pallet_Tan">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Pallet_Green">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_HeliPad">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_MiliCrate_Black">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_MiliCrate_Grey">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_MiliCrate_Tan">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_MiliCrate_Green">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_MiliCrate_Blue">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Fridge_Black">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Fridge_White">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Container_Black">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Container_Grey">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Container_Tan">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Container_Green">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_Container_Blue">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_IC_Freezer">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<type name="StorageBox_GearStand">
+		<nominal>10</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="shelves"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+	</type>
+	<!--
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">
 			<item name="V3SWheel" chance="0.60" />
