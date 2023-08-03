@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+	<event name="VehicleATV">
+		<nominal>8</nominal>
+		<min>0</min>
+		<max>8</max>
+		<lifetime>64800</lifetime>
+		<restock>0</restock>
+		<saferadius>500</saferadius>
+		<distanceradius>250</distanceradius>
+		<cleanupradius>200</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="1"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Atv_black"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Atv_python"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Atv_redflame"/>	
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Atv_python_purple"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Atv_ZombieNation_python_purple"/>		
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Atv_ZombieNation_bananajoe"/>			
+		</children>
+	</event>		
+</events>

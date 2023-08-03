@@ -1,0 +1,65 @@
+<VehicleParts> Atv_black
+	AtvWheel
+	AtvWheel
+	AtvWheel
+	AtvWheel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7	
+
+<VehicleParts> Atv_redflame
+	AtvWheel
+	AtvWheel
+	AtvWheel
+	AtvWheel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7	
+
+<VehicleParts> Atv_python
+	AtvWheel
+	AtvWheel
+	AtvWheel
+	AtvWheel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7	
+	
+<VehicleParts> Atv_python_purple
+	AtvWheel
+	AtvWheel
+	AtvWheel
+	AtvWheel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7		
+	
+<VehicleParts> Atv_ZombieNation_python_purple
+	AtvWheel
+	AtvWheel
+	AtvWheel
+	AtvWheel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7			
+
+<VehicleParts> Atv_ZombieNation_bananajoe
+	AtvWheel
+	AtvWheel
+	AtvWheel
+	AtvWheel
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7	

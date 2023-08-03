@@ -1,0 +1,112 @@
+{
+    "OnTheFly": 1,
+    "OnTheFly_UnFlip": 1,
+    "Log": 0,
+    "VehicleConfig": [
+        {
+            "Name": "DEFAULT",
+            "VerticalAdjustment": -1.0,
+            "Clearance": 2.0
+        },
+        {
+            "Name": "HELI",
+            "VerticalAdjustment": -1.0,
+            "Clearance": 4.599999904632568
+        },
+        {
+            "Name": "PLANE",
+            "VerticalAdjustment": -1.0,
+            "Clearance": 4.5
+        },
+        {
+            "Name": "CivilianSedan",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5800000429153443
+        },
+        {
+            "Name": "CivilianSedan_Black",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5800000429153443
+        },
+        {
+            "Name": "CivilianSedan_Wine",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5800000429153443
+        },
+        {
+            "Name": "Hatchback_02",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5800000429153443
+        },
+        {
+            "Name": "Hatchback_02_Black",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5800000429153443
+        },
+        {
+            "Name": "Hatchback_02_Blue",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5800000429153443
+        },
+        {
+            "Name": "OffroadHatchback",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.8300000429153443
+        },
+        {
+            "Name": "OffroadHatchback_Blue",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.8300000429153443
+        },
+        {
+            "Name": "OffroadHatchback_White",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.8300000429153443
+        },
+        {
+            "Name": "Sedan_02",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5
+        },
+        {
+            "Name": "Sedan_02_Grey",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5
+        },
+        {
+            "Name": "Sedan_02_Red",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5
+        },
+        {
+            "Name": "Atv_python",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5
+        },
+        {
+            "Name": "Atv_redflame",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5
+        },
+        {
+            "Name": "Atv_black",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5
+        },
+        {
+            "Name": "Atv_python_purple",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5
+        },
+        {
+            "Name": "Atv_ZombieNation_python_purple",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5
+        },
+        {
+            "Name": "Atv_ZombieNation_bananajoe",
+            "VerticalAdjustment": 0.0,
+            "Clearance": 1.5
+        }
+    ]
+}
