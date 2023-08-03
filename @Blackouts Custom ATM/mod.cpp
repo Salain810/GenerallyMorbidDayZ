@@ -1,0 +1,10 @@
+name = "Blackouts Custom ATM"; 								                                            // name 
+picture = "vg7_atm\vg7_atm\data\logo.paa";			                                        // picture in expanded description
+logoSmall = "vg7_atm\vg7_atm\data\logo.paa";	                                            // icon next to mod name when description is not expanded
+logo = "vg7_atm\vg7_atm\data\logo.paa";				                                    // logo below game menu
+logoOver = "vg7_atm\vg7_atm\data\logo.paa";	                                            // on mouse hover over logo
+tooltip = "Blackouts ATM by Dr Blackouts";						                                    // tool tip on mouse hover
+overview = "Custom ATM machines for expansion mod"; 					// overview
+action = "";					// link
+author = "VectorG7";							                                                // author
+version = "1.0";								                                                // version						                                                // version

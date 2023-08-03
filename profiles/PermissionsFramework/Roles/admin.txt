@@ -36,6 +36,9 @@ Admin.Player.Set.Energy 2
 Admin.Player.Set.Water 2
 Admin.Player.Set.Stamina 2
 Admin.Player.Set.BloodyHands 2
+Admin.Player.Set.ExpansionEntityStorage 2
+Admin.Player.Set.ExpansionFaction 2
+Admin.Player.Set.ExpansionReputation 2
 Admin.Player.Read 2
 Admin.Transport 2
 Admin.Transport.Repair 2

@@ -36,6 +36,9 @@ Admin.Player.Set.Energy 0
 Admin.Player.Set.Water 0
 Admin.Player.Set.Stamina 0
 Admin.Player.Set.BloodyHands 0
+Admin.Player.Set.ExpansionEntityStorage 0
+Admin.Player.Set.ExpansionFaction 0
+Admin.Player.Set.ExpansionReputation 0
 Admin.Player.Read 0
 Admin.Transport 0
 Admin.Transport.Repair 0
@@ -94,6 +97,10 @@ Expansion.Territories.Delete 0
 Expansion.Territories.Delete.All 0
 Expansion.Territories.Delete.Destroyed 0
 Expansion.Territories.Teleport 0
+Expansion.Groups 0
+Expansion.Groups.View 0
+Expansion.Groups.EditGroup 0
+Expansion.Groups.DeleteGroup 0
 COT 0
 COT.View 0
 Entity 0

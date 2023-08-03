@@ -1,0 +1,143 @@
+{
+    "ConfigVersion": "1",
+    "Notification": 2,
+    "HackableItems": [
+        {
+            "Type": "tent",
+            "StartTime": 30.0,
+            "HackingTime": 120.0,
+            "Batteries": 1,
+            "TabletDamage": 15.0,
+            "ChanceOfInterrupt": 0.10000000149011612
+        },
+        {
+            "Type": "Paragon_BigSafe_Black",
+            "StartTime": 30.0,
+            "HackingTime": 240.0,
+            "Batteries": 5,
+            "TabletDamage": 15.0,
+            "ChanceOfInterrupt": 0.10000000149011612
+        },
+        {
+            "Type": "Paragon_BigSafe_Grey",
+            "StartTime": 30.0,
+            "HackingTime": 240.0,
+            "Batteries": 5,
+            "TabletDamage": 15.0,
+            "ChanceOfInterrupt": 0.10000000149011612
+        },
+        {
+            "Type": "Paragon_Safe_Black",
+            "StartTime": 30.0,
+            "HackingTime": 180.0,
+            "Batteries": 3,
+            "TabletDamage": 15.0,
+            "ChanceOfInterrupt": 0.10000000149011612
+        },
+        {
+            "Type": "Paragon_Safe_Grey",
+            "StartTime": 30.0,
+            "HackingTime": 180.0,
+            "Batteries": 3,
+            "TabletDamage": 15.0,
+            "ChanceOfInterrupt": 0.10000000149011612
+        },
+        {
+            "Type": "Paragon_Safe_White",
+            "StartTime": 30.0,
+            "HackingTime": 180.0,
+            "Batteries": 3,
+            "TabletDamage": 15.0,
+            "ChanceOfInterrupt": 0.10000000149011612
+        },
+        {
+            "Type": "Paragon_Safe_Green",
+            "StartTime": 30.0,
+            "HackingTime": 180.0,
+            "Batteries": 3,
+            "TabletDamage": 15.0,
+            "ChanceOfInterrupt": 0.10000000149011612
+        },
+        {
+            "Type": "Paragon_Safe_Blue",
+            "StartTime": 30.0,
+            "HackingTime": 180.0,
+            "Batteries": 3,
+            "TabletDamage": 15.0,
+            "ChanceOfInterrupt": 0.10000000149011612
+        },
+        {
+            "Type": "Paragon_Safe_Gold",
+            "StartTime": 30.0,
+            "HackingTime": 180.0,
+            "Batteries": 3,
+            "TabletDamage": 15.0,
+            "ChanceOfInterrupt": 0.10000000149011612
+        },
+        {
+            "Type": "Paragon_Safe_Rainbow",
+            "StartTime": 30.0,
+            "HackingTime": 180.0,
+            "Batteries": 3,
+            "TabletDamage": 15.0,
+            "ChanceOfInterrupt": 0.10000000149011612
+        },
+        {
+            "Type": "Paragon_SmallSafe_Black",
+            "StartTime": 30.0,
+            "HackingTime": 120.0,
+            "Batteries": 2,
+            "TabletDamage": 15.0,
+            "ChanceOfInterrupt": 0.10000000149011612
+        },
+        {
+            "Type": "Paragon_SmallSafe_Grey",
+            "StartTime": 30.0,
+            "HackingTime": 120.0,
+            "Batteries": 2,
+            "TabletDamage": 15.0,
+            "ChanceOfInterrupt": 0.10000000149011612
+        },
+        {
+            "Type": "Paragon_SmallSafe_White",
+            "StartTime": 30.0,
+            "HackingTime": 120.0,
+            "Batteries": 2,
+            "TabletDamage": 15.0,
+            "ChanceOfInterrupt": 0.10000000149011612
+        },
+        {
+            "Type": "Paragon_SmallSafe_Green",
+            "StartTime": 30.0,
+            "HackingTime": 120.0,
+            "Batteries": 2,
+            "TabletDamage": 15.0,
+            "ChanceOfInterrupt": 0.10000000149011612
+        },
+        {
+            "Type": "Paragon_SmallSafe_Blue",
+            "StartTime": 30.0,
+            "HackingTime": 120.0,
+            "Batteries": 2,
+            "TabletDamage": 15.0,
+            "ChanceOfInterrupt": 0.10000000149011612
+        },
+        {
+            "Type": "Paragon_SmallSafe_Gold",
+            "StartTime": 30.0,
+            "HackingTime": 120.0,
+            "Batteries": 2,
+            "TabletDamage": 15.0,
+            "ChanceOfInterrupt": 0.10000000149011612
+        },
+        {
+            "Type": "Paragon_SmallSafe_Rainbow",
+            "StartTime": 30.0,
+            "HackingTime": 120.0,
+            "Batteries": 2,
+            "TabletDamage": 15.0,
+            "ChanceOfInterrupt": 0.10000000149011612
+        }
+    ],
+    "ScriptLogging": 0
+}
