@@ -1,13 +1,15 @@
 {
-  "m_Version": 6,
-  "m_DisplayName": "EXCHANGETRADER",
-  "Position": [
-    8599.69043,
-    105.656998,
-    13330.2002
-  ],
-  "Radius": 50,
-  "BuyPricePercent": 100,
-  "SellPricePercent": -1,
-  "Stock": {}
+    "m_Version": 6,
+    "m_DisplayName": "EXCHANGETRADER",
+    "Position": [
+        8599.6904296875,
+        105.65699768066406,
+        13330.2001953125
+    ],
+    "Radius": 50.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {
+        "expansionbanknotehryvnia": 0
+    }
 }
