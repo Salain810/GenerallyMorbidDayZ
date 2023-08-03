@@ -20,10 +20,10 @@
     {
       "ClassName": "storagebox_bigsafe_grey",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -31,10 +31,10 @@
     {
       "ClassName": "storagebox_container_black",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -42,10 +42,10 @@
     {
       "ClassName": "storagebox_container_blue",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -53,10 +53,10 @@
     {
       "ClassName": "storagebox_container_green",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -64,10 +64,10 @@
     {
       "ClassName": "storagebox_container_grey",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -75,10 +75,10 @@
     {
       "ClassName": "storagebox_container_tan",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -86,10 +86,10 @@
     {
       "ClassName": "storagebox_dguncase_brown",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -97,10 +97,10 @@
     {
       "ClassName": "storagebox_dguncase_cherry",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -108,10 +108,10 @@
     {
       "ClassName": "storagebox_dguncase_grey",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -119,10 +119,10 @@
     {
       "ClassName": "storagebox_dgunrack_black",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -130,10 +130,10 @@
     {
       "ClassName": "storagebox_dgunrack_green",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -141,10 +141,10 @@
     {
       "ClassName": "storagebox_dgunrack_tan",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -152,10 +152,10 @@
     {
       "ClassName": "storagebox_fridge_black",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -163,10 +163,10 @@
     {
       "ClassName": "storagebox_fridge_white",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -174,10 +174,10 @@
     {
       "ClassName": "storagebox_gearstand",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -185,10 +185,10 @@
     {
       "ClassName": "storagebox_guncase_brown",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -196,10 +196,10 @@
     {
       "ClassName": "storagebox_guncase_cherry",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -207,10 +207,10 @@
     {
       "ClassName": "storagebox_guncase_grey",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -218,10 +218,10 @@
     {
       "ClassName": "storagebox_gunrack_black",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -229,10 +229,10 @@
     {
       "ClassName": "storagebox_gunrack_green",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -240,10 +240,10 @@
     {
       "ClassName": "storagebox_gunrack_tan",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -251,10 +251,10 @@
     {
       "ClassName": "storagebox_gunwall_black",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -262,10 +262,10 @@
     {
       "ClassName": "storagebox_gunwall_green",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -273,10 +273,10 @@
     {
       "ClassName": "storagebox_gunwall_tan",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -284,10 +284,10 @@
     {
       "ClassName": "storagebox_helipad",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -295,10 +295,10 @@
     {
       "ClassName": "storagebox_hotdog_cart",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -306,10 +306,10 @@
     {
       "ClassName": "storagebox_ic_freezer",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -317,10 +317,10 @@
     {
       "ClassName": "storagebox_icebox",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -328,10 +328,10 @@
     {
       "ClassName": "storagebox_locker_black",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -339,10 +339,10 @@
     {
       "ClassName": "storagebox_locker_blue",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -350,10 +350,10 @@
     {
       "ClassName": "storagebox_locker_green",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -361,10 +361,10 @@
     {
       "ClassName": "storagebox_locker_purple",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -372,10 +372,10 @@
     {
       "ClassName": "storagebox_locker_red",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -383,10 +383,10 @@
     {
       "ClassName": "storagebox_locker_white",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -394,10 +394,10 @@
     {
       "ClassName": "storagebox_locker_yellow",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -405,10 +405,10 @@
     {
       "ClassName": "storagebox_mcabinet_black",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -416,10 +416,10 @@
     {
       "ClassName": "storagebox_mcabinet_green",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -427,10 +427,10 @@
     {
       "ClassName": "storagebox_mcabinet_tan",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -438,10 +438,10 @@
     {
       "ClassName": "storagebox_mcrate_black",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -449,10 +449,10 @@
     {
       "ClassName": "storagebox_mcrate_blue",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -460,10 +460,10 @@
     {
       "ClassName": "storagebox_mcrate_green",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -471,10 +471,10 @@
     {
       "ClassName": "storagebox_mcrate_grey",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -482,10 +482,10 @@
     {
       "ClassName": "storagebox_mcrate_tan",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -493,10 +493,10 @@
     {
       "ClassName": "storagebox_metalrack_black",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -504,10 +504,10 @@
     {
       "ClassName": "storagebox_metalrack_green",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -515,10 +515,10 @@
     {
       "ClassName": "storagebox_metalrack_tan",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -526,10 +526,10 @@
     {
       "ClassName": "storagebox_milicrate_black",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -537,10 +537,10 @@
     {
       "ClassName": "storagebox_milicrate_blue",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -548,10 +548,10 @@
     {
       "ClassName": "storagebox_milicrate_green",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -559,10 +559,10 @@
     {
       "ClassName": "storagebox_milicrate_grey",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -570,10 +570,10 @@
     {
       "ClassName": "storagebox_milicrate_tan",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -581,10 +581,10 @@
     {
       "ClassName": "storagebox_mlocker_black",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -592,10 +592,10 @@
     {
       "ClassName": "storagebox_mlocker_blue",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -603,10 +603,10 @@
     {
       "ClassName": "storagebox_mlocker_green",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -614,10 +614,10 @@
     {
       "ClassName": "storagebox_mlocker_grey",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -625,10 +625,10 @@
     {
       "ClassName": "storagebox_mlocker_tan",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -636,10 +636,10 @@
     {
       "ClassName": "storagebox_pallet_black",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -647,10 +647,10 @@
     {
       "ClassName": "storagebox_pallet_green",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -658,10 +658,10 @@
     {
       "ClassName": "storagebox_pallet_tan",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -669,10 +669,10 @@
     {
       "ClassName": "storagebox_safe_black",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -680,10 +680,10 @@
     {
       "ClassName": "storagebox_safe_blue",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -691,10 +691,10 @@
     {
       "ClassName": "storagebox_safe_gold",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -702,10 +702,10 @@
     {
       "ClassName": "storagebox_safe_green",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -713,10 +713,10 @@
     {
       "ClassName": "storagebox_safe_grey",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -724,10 +724,10 @@
     {
       "ClassName": "storagebox_safe_rainbow",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -735,10 +735,10 @@
     {
       "ClassName": "storagebox_safe_white",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -746,10 +746,10 @@
     {
       "ClassName": "storagebox_scrate_black",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -757,10 +757,10 @@
     {
       "ClassName": "storagebox_scrate_blue",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -768,10 +768,10 @@
     {
       "ClassName": "storagebox_scrate_green",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -779,10 +779,10 @@
     {
       "ClassName": "storagebox_scrate_grey",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -790,10 +790,10 @@
     {
       "ClassName": "storagebox_scrate_tan",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -801,10 +801,10 @@
     {
       "ClassName": "storagebox_smallsafe_black",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -812,10 +812,10 @@
     {
       "ClassName": "storagebox_smallsafe_blue",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -823,10 +823,10 @@
     {
       "ClassName": "storagebox_smallsafe_gold",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -834,10 +834,10 @@
     {
       "ClassName": "storagebox_smallsafe_green",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -845,10 +845,10 @@
     {
       "ClassName": "storagebox_smallsafe_grey",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -856,10 +856,10 @@
     {
       "ClassName": "storagebox_smallsafe_rainbow",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -867,10 +867,10 @@
     {
       "ClassName": "storagebox_smallsafe_white",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -878,10 +878,10 @@
     {
       "ClassName": "storagebox_tcrate_black",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -889,10 +889,10 @@
     {
       "ClassName": "storagebox_tcrate_blue",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -900,10 +900,10 @@
     {
       "ClassName": "storagebox_tcrate_green",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -911,10 +911,10 @@
     {
       "ClassName": "storagebox_tcrate_grey",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -922,10 +922,10 @@
     {
       "ClassName": "storagebox_tcrate_tan",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -933,10 +933,10 @@
     {
       "ClassName": "storagebox_toolb_black",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -944,10 +944,10 @@
     {
       "ClassName": "storagebox_toolb_blue",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -955,10 +955,10 @@
     {
       "ClassName": "storagebox_toolb_red",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -966,10 +966,10 @@
     {
       "ClassName": "storagebox_toolb_white",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -977,10 +977,10 @@
     {
       "ClassName": "storagebox_toolb_yellow",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -988,10 +988,10 @@
     {
       "ClassName": "storagebox_wood_crate",
       "MaxPriceThreshold": 50000,
-      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 30000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 30,
-      "MaxStockThreshold": 15,
+      "MinStockThreshold": 15,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
