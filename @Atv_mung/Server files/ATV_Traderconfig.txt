@@ -1,0 +1,14 @@
+		Atv_black, VNK, 125000, 10000
+		Atv_redflame, VNK, 125000, 10000
+		Atv_python, VNK, 125000, 10000
+		Atv_python_purple, VNK, 125000, 10000
+		Atv_ZombieNation_python_purple, VNK, 125000, 10000
+		Atv_ZombieNation_bananajoe, VNK, 125000, 10000
+		
+		
+		
+		AtvWheel_Small,	*,		2450,	245			
+		AtvWheel,	*,		2450,	245	
+		AtvWheel_Big,	*,		2450,	245		
+
+		Atv_storagebox_Mung,	*,		10000,	450			
