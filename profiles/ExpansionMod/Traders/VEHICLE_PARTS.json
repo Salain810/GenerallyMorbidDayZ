@@ -10,7 +10,9 @@
     "expansionbanknotehryvnia"
   ],
   "Categories": [
-    "VEHICLE_PARTS"  ],
+    "VEHICLE_PARTS",
+    "ATV PARTS"
+  ],
   "Items": {
     "canistergasoline": 1
   }

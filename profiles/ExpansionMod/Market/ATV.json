@@ -1,0 +1,136 @@
+{
+  "m_Version": 12,
+  "DisplayName": "ATV",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "atv_black",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 30,
+      "MinStockThreshold": 15,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "atvwheel",
+        "atvwheel",
+        "atvwheel",
+        "atvwheel",
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "atv_python",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 30,
+      "MinStockThreshold": 15,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "atvwheel",
+        "atvwheel",
+        "atvwheel",
+        "atvwheel",
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "atv_python_purple",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "atvwheel",
+        "atvwheel",
+        "atvwheel",
+        "atvwheel",
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "atv_redflame",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 30,
+      "MinStockThreshold": 15,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "atvwheel",
+        "atvwheel",
+        "atvwheel",
+        "atvwheel",
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "atv_zombienation_bananajoe",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 30,
+      "MinStockThreshold": 15,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "atvwheel",
+        "atvwheel",
+        "atvwheel",
+        "atvwheel",
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "atv_zombienation_python_purple",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 30,
+      "MinStockThreshold": 15,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "atvwheel",
+        "atvwheel",
+        "atvwheel",
+        "atvwheel",
+        "sparkplug",
+        "carbattery",
+        "carradiator",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    }
+  ]
+}
