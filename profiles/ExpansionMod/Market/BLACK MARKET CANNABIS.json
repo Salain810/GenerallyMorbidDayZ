@@ -2,7 +2,7 @@
   "m_Version": 12,
   "DisplayName": "BLACK MARKET CANNABIS",
   "Icon": "Deliver",
-  "Color": "FBFCFEFF",
+  "Color": "FF0000FF",
   "InitStockPercent": 75,
   "IsExchange": 0,
   "Items": [
