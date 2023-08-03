@@ -1,0 +1,13 @@
+{
+  "m_Version": 6,
+  "m_DisplayName": "EXCHANGETRADER",
+  "Position": [
+    8599.69043,
+    105.656998,
+    13330.2002
+  ],
+  "Radius": 50,
+  "BuyPricePercent": 100,
+  "SellPricePercent": -1,
+  "Stock": {}
+}
