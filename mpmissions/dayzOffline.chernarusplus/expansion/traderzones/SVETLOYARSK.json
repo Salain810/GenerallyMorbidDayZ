@@ -7,7 +7,7 @@
     13272.9004
   ],
   "Radius": 500.0,
-  "BuyPricePercent": 100.0,
+  "BuyPricePercent": 50,
   "SellPricePercent": -1.0,
   "Stock": {
     "battery9v": 100,

@@ -128,6 +128,20 @@
         12204
       ],
       "m_Locked": 0
+    },
+    {
+      "m_UID": "ServerMarker_Trader_Exchange",
+      "m_Visibility": 6,
+      "m_Is3D": 1,
+      "m_Text": "Trader - Exchange",
+      "m_IconName": "Trader",
+      "m_Color": -13710223,
+      "m_Position": [
+        8591,
+        111,
+        13329
+      ],
+      "m_Locked": 0
     }
   ],
   "EnableHUDCompass": 1,
