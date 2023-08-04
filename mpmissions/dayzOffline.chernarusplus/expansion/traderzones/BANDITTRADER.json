@@ -10,14 +10,14 @@
   "BuyPricePercent": 100.0,
   "SellPricePercent": 100,
   "Stock": {
-    "bearpelt": 1,
-    "cowpelt": 1,
-    "deerpelt": 1,
-    "goatpelt": 1,
-    "pigpelt": 1,
-    "rabbitpelt": 1,
-    "sheeppelt": 1,
-    "wildboarpelt": 1,
-    "wolfpelt": 1
+    "bearpelt": 0,
+    "cowpelt": 0,
+    "deerpelt": 0,
+    "goatpelt": 0,
+    "pigpelt": 0,
+    "rabbitpelt": 0,
+    "sheeppelt": 0,
+    "wildboarpelt": 0,
+    "wolfpelt": 0
   }
 }

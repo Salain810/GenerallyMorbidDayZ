@@ -10,6 +10,12 @@
   "BuyPricePercent": 100.0,
   "SellPricePercent": 100,
   "Stock": {
+    "dogtag_bandit": 0,
+    "dogtag_cobalt": 0,
+    "dogtag_granite": 0,
+    "dogtag_hero": 0,
+    "dogtag_silver": 0,
+    "dogtag_survivor": 0,
     "expansionbanknotehryvnia": 0
   }
 }
