@@ -10,7 +10,8 @@
     "expansionbanknotehryvnia"
   ],
   "Categories": [
-    "BANDIT:2"
+    "BANDIT:2",
+    "MEAT:2"
   ],
   "Items": {}
 }
